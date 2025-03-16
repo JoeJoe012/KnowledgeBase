@@ -105,7 +105,7 @@
             时间段状语：for + 时间段（如：for two years），since + 时间点（如：since 2020）
             频率状语：recently, lately, so far, up to now
         例：我们去看电影吗？
-            I have watched this movie.  我已经看过这部电影了。话中有话：我现在不想看
+            I have watched this movie.  我已经看过这部电影了。暗示我现在不想看
             How are you today?
             I have finished my homework.
             Developing our economy is good because we have already benefited a lot. (因果影响：我们受益很多所以发展经济是好的)
