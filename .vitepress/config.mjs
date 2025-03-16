@@ -10,7 +10,7 @@ export default defineConfig({
   themeConfig: {
     sidebar: false, // 关闭侧边栏
     aside: "left", // 设置右侧侧边栏在左侧显示
-    outlineTitle: '测试文章目录',
+    outlineTitle: 'Table of Contents',
     outline: [2, 6],
     logo: "/earth-icon.svg",
     // https://vitepress.dev/reference/default-theme-config
@@ -27,7 +27,7 @@ export default defineConfig({
         items: [
           { text: 'English',
             items: [
-              { text: 'English Grammar', link: '/markdown-examples'},
+              { text: 'English Grammar', link: '/subject/english/english-grammar'},
               { text: 'Intensive Reading', link: '/markdown-examples'}
             ]
           },
