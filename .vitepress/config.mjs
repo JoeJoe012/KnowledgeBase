@@ -3,7 +3,7 @@ import { set_sidebar } from './util/auto-gen-sidebar.mjs';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: 'KnowledgeBase',
+  base: '/KnowledgeBase/',
   head: [["link", { rel: "icon", href: "/KnowledgeBase/github-fill.svg" }]],
   title: "Demo Project",
   description: "A VitePress Site",
