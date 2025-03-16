@@ -1,2 +1,11 @@
 # KnowledgeBase
-This is a repository.
+
+🌱 **KnowledgeBase** 是一个学习笔记仓库，旨在整理和记录我在学习过程中积累的知识点、心得和资源。
+
+## 项目目标
+- 系统化整理学习内容
+- 方便日后复习和查阅
+- 分享学习资源和方法
+
+## 贡献与反馈
+如果你有任何建议或想补充内容，欢迎提交 Issue 或 Pull Request！
