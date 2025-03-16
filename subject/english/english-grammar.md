@@ -77,7 +77,7 @@
     
     动词的时态：时态只有动词有，时态不是语法，是意思
 
-    1. 一般过去式: 动词过去式  
+    1. 一般过去式: 强调动作发生的具体时间  
 
         定义：过去某个时间点发生的动作或状态，与现在没有直接联系  
 
@@ -90,7 +90,7 @@
         通常与表示过去的时间状语连用（如：yesterday, last week, in 1999）
         例：He ate breakfast at 8 a.m.（他早上8点吃了早餐。）
         ```
-    2. 现在完成时：动作已完成  
+    2. 现在完成时：强调动作的结果或影响  
 
         定义：过去发生的动作**对现在的影响**  
 
@@ -98,8 +98,12 @@
 
         ```
         关键在于意思，现在完成时的句子话中有话
-        强调动作的结果或影响延续到现在
-        常与不确定的时间状语连用
+        表示动作发生在过去，但对现在有影响或结果
+        强调动作的结果或影响，而不是动作发生的时间
+        ·通常与以下时间状语连用：
+            不确定的时间状语：already, yet, ever, never, just
+            时间段状语：for + 时间段（如：for two years），since + 时间点（如：since 2020）
+            频率状语：recently, lately, so far, up to now
         例：我们去看电影吗？
             I have watched this movie.  我已经看过这部电影了。话中有话：我现在不想看
             How are you today?
@@ -107,22 +111,38 @@
             Developing our economy is good because we have already benefited a lot. (因果影响：我们受益很多所以发展经济是好的)
         ```
     
-    3. 过去完成时  
+    3. 过去完成时：强调动作的结果或影响  
 
-        定义：过去发生的动作**对过去的影响**
+        定义：过去发生的动作**对过去的影响**，表示在过去某一时间点已经完成的动作或状态
 
         形式：had + 过去分词
 
         ```
-        表示在过去某一时间点或动作之前已经完成的动作或状态。它强调动作的先后顺序，即“过去的过去”。
+        表示在过去某一时间点或动作之前已经完成的动作或状态。
+        它强调动作的先后顺序，即“过去的过去”。
+        ·通常与以下时间状语连用：
+            by + 时间点（如：by 5 p.m., by yesterday）
+            before/after + 时间点或从句（如：before he arrived, after she left）
+            when + 从句（表示过去动作的先后顺序）
+        ·过去完成时的动作状态可以分为以下几种情况：
+            (1) 动作已完成
+            表示在过去某一时间点或动作之前，动作已经完成
+            She had finished her homework before dinner.（她在晚饭前已经完成了作业。）
+            (2) 动作持续到过去某一时间点
+            表示动作从更早的过去开始，持续到过去某一时间点。
+            He had lived in London for five years before he moved to Paris.（在搬到巴黎之前，他已经在伦敦住了五年。）
+            (3) 动作未完成
+            表示在过去某一时间点之前，动作本应完成但未完成。
+            She had not finished the report by the deadline.（在截止日期前，她还没有完成报告。）
+
         例：唐朝的一个政策对于当时的影响
 
                 (----->)
             ----|------|---------|------->
                                 now
         ```
-    
-    4. 现在完成进行时：动作可能仍在进行  
+  
+    4. 现在完成进行时：强调动作的持续性和未完成性  
 
         定义：动作从过去开始，**一直**到现在，可能刚刚结束或仍在进行
 
@@ -133,7 +153,7 @@
 
         ```
         强调动作从过去开始，持续到现在，可能仍在进行。
-        通常与表示一段时间的状语连用，例如：
+        ·通常与表示一段时间的状语连用，例如：
             for + 时间段（如：for two hours, for a week）
             since + 时间点（如：since 2020, since last Monday）
             all day/morning/week（如：all day, all morning）
@@ -143,8 +163,8 @@
                                 now
         例：Have you been exercising regularly?（你一直在定期锻炼吗？）
         ```
-    
-    5. 过去完成进行时  
+  
+    5. 过去完成进行时：强调动作的持续性和未完成性  
 
     定义：表示动作从更早的过去开始，持续到过去某一时间点，并可能继续下去。它强调动作的持续性和未完成性  
 
@@ -152,7 +172,7 @@
 
     ```
     强调动作从更早的过去开始，持续到过去某一时间点，可能刚刚结束或仍在进行。
-    通常与以下时间状语连用：
+    ·通常与以下时间状语连用：
         when/before + 从句（表示过去动作的先后顺序）
         for + 时间段（如：for two hours, for a week）
         since + 时间点（如：since 2020, since last Monday）
@@ -160,7 +180,7 @@
        -------------------->...
             ---------------|------|------->
                                  now
-    过去完成进行时的动作状态可以分为以下几种情况：
+    ·过去完成进行时的动作状态可以分为以下几种情况：
         (1) 动作持续到过去某一时间点：
         表示动作从更早的过去开始，持续到过去某一时间点。
         They had been playing soccer all afternoon before it started to rain.（在下雨之前，他们整个下午都在踢足球。）
@@ -171,3 +191,23 @@
         表示动作持续到过去某一时间点，可能仍在进行。
         When I saw him, he had been waiting for the bus for 20 minutes.（当我看到他时，他已经等了20分钟的公交车。）
     ```
+
+* 现在完成时和现在完成进行时  
+
+    | 特征 | 现在完成时   | 现在完成进行时    |
+    | ---- | ------ | ---------- |
+    | 侧重点  | 动作的结果或影响 | 动作的持续性和未完成性 |
+    | 形式    | have/has + 过去分词    | have/has + been + 动词-ing |
+    | 例句    | She has written a letter.    | She has been writing a letter for an hour. |
+    | 动作状态 | 动作已完成    | 动作可能仍在进行 |
+
+* 过去完成时和过去完成进行时  
+
+    | 特征 | 过去完成时   | 过去完成进行时    |
+    | ---- | ------ | ---------- |
+    | 侧重点  | 动作的结果或影响 | 动作的持续性和未完成性 |
+    | 形式    | had + 过去分词    | had + been + 动词-ing |
+    | 例句    | I had read the book before the movie.    | I had been reading the book for hours before the movie started. |
+    | 动作状态 | 动作已完成    | 动作可能仍在进行 |
+  
+    6. 一般进行时
