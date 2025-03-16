@@ -82,7 +82,7 @@ export default defineConfig({
 
     // 底部配置
     footer: {
-      copyright: 'Copyright@ 2025 JoeJoe012'
+      copyright: 'Copyright@ 2025'
     }
   }
 })
