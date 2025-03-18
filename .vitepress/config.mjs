@@ -11,7 +11,7 @@ export default defineConfig({
     sidebar: false, // 关闭侧边栏
     aside: "left", // 设置右侧侧边栏在左侧显示
     outlineTitle: 'Table of Contents',
-    outline: [2, 6],
+    outline: [1, 6],
     logo: "/earth-icon.svg",
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -28,7 +28,7 @@ export default defineConfig({
           { text: 'English',
             items: [
               { text: 'English Grammar', link: '/subject/english/english-grammar'},
-              { text: 'Intensive Reading', link: '/markdown-examples'}
+              { text: 'Intensive Reading', link: '/subject/english/english-grammar-system'}
             ]
           },
           {
