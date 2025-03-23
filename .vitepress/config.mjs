@@ -5,7 +5,7 @@ import { set_sidebar } from './util/auto-gen-sidebar.mjs';
 export default defineConfig({
   base: '/KnowledgeBase/',
   head: [["link", { rel: "icon", href: "/KnowledgeBase/github-fill.svg" }]],
-  title: "Demo Project",
+  title: "Project",
   description: "A VitePress Site",
   themeConfig: {
     sidebar: false, // 关闭侧边栏
