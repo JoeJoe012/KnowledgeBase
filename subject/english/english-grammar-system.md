@@ -147,7 +147,7 @@
 
 非谓语动词：不可作谓语动词
 
-<img src="/subject/english/verbs-classification.jpg" alt="动词的分类" style="width: 50%; height: auto;">
+<img src="/subject/english/image/verbs-classification.jpg" alt="动词的分类" style="width: 50%; height: auto;">
 * 实义动词和系动词可以做句子的谓语动词，注意助动词和情态动词 -- 它们是不能独立作谓语动词的
 
 #### 1.1.2 谓语动词
@@ -217,6 +217,135 @@
 
 ### 1.1 动词时态
 
-### 1.1 动词语气
+英语动词的时态：动词的时间 + 动词的状态  
+<img src="/subject/english/image/verbs-tense.jpg" alt="动词时态" style="width: 50%; height: auto;">
+
+时态难点：  
+英语动词要表达时态有变位以及需要助动词辅助等
+<img src="/subject/english/image/verbs-tense-difficulty.jpg" alt="动词的结构组成" style="width: 50%; height: auto;">  
+
+<img src="/subject/english/image/tense-construction.jpg" alt="动词的结构组成" style="width: 50%; height: auto;">
+<img src="/subject/english/image/common-verbs-tense.jpg" alt="常用的动词时态" style="width: 50%; height: auto;">
+
+#### 现在时
+
+<mark>**一般现在时态(Simple Present Tense)**</mark>  
+“一般”：默认的，并没有特别指出的动作状态  
+基本结构：S + V；S + V-s/es/sh  
+基本信息：（1）表达事实（2）表达习惯/重复的动作（3）表达预计发生的事
+<img src="/subject/english/image/simple-present-tense.jpg" alt="一般现在时态" style="width: 50%; height: auto;">
+
+<mark>**现在进行时态(Present Progressive Tense)**</mark>  
+基本结构：be动词 + V-ing(现在分词)  
+基本信息: 表达某事在说话时进行  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（2）表达某些事将来要发生
+<img src="/subject/english/image/present-progressive-tense.jpg" alt="现在进行时态" style="width: 50%; height: auto;">
+
+<mark>**现在完成时态(Present Perfect Tense)**</mark>  
+基本结构：have/has + 过去分词(past participle)  
+基本信息: 表达一件事情已经完成（对现在的影响）
+<img src="/subject/english/image/present-perfect-tense.jpg" alt="现在完成时态" style="width: 50%; height: auto;">
+
+<mark>**现在完成进行时态(Present Perfect Progressive Tense)**</mark>  
+基本结构：have/has + been + V-ing(现在分词)  
+基本信息: 对于现在这个时间点，不但已经完成了一部分，而且还要继续进行的动作
+<img src="/subject/english/image/present-perfect-progressive-tense.jpg" alt="现在完成进行时态" style="width: 50%; height: auto;">
+
+#### 过去时
+
+<img src="/subject/english/image/past-tense.jpg" alt="过去时" style="width: 30%; height: auto;">
+
+<mark>**一般过去时态(Simple Past Tense)**</mark>  
+基本结构：S + V-ed(动词过去式)
+基本信息: 表达一件事在过去某时刻已经完成
+<img src="/subject/english/image/simple-past-tense.jpg" alt="一般过去时态" style="width: 50%; height: auto;">
+
+<mark>**过去进行时态(Past Progressive Tense)**</mark>  
+基本结构：was/were + V-ing  
+基本信息: 表达在过去某一时间点，该动作正在进行  
+
+    补充：助动词be的变位在现在时间是：am/is/are，它在过去时间里的变位是：was/were
+          其实，助动词be在过去时间的变位就是be的过去式而已
+          现在分词(“进行”分词)：用来表示进行状态中
+<img src="/subject/english/image/past-progressive-tense.jpg" alt="过去进行时态" style="width: 50%; height: auto;">
+
+之前说的现在完成时态描述了已经完成的动作（那肯定是过去时间里做的呀），  
+这里的两个过去时间里的时态（一般过去时态和过去进行时态）也是在说过去动作，  
+所以说，三者都有过去动作的信息，那三者有什么区别呢？  
+
+    现在完成时态 VS 一般过去时态
+        * 现在完成时态说的是：对于现在这个时间点而言，某个动作是否已经完成了，
+        也就是说，它的重点在于，某个动作是否已经在说这句话之前完成了？所以往往考虑的是某个过去的动作对现在的影响
+        * 一般过去时态重点在于描述某个动作到底在过去有没有发生，所以往往考虑的 是过去的事实
+    一般过去时态 VS 过去进行时态
+        一般过去时态你可以想做一张照片
+        过去进行时态强调过去时间中的进行状态，一个过程可以想做一段视频
+<img src="/subject/english/image/past-progressive-tense-extend.jpg" alt="过去进行时态扩展" style="width: 50%; height: auto;">
+
+<mark>**过去完成时态(Past Perfect Tense)**</mark>  
+基本结构：had + 过去分词(=done)  
+基本信息: 表达过去某一点（A）的过去（B）对于过去那一点（A）的影响  
+补：过去分词：表示完成状态
+<img src="/subject/english/image/past-perfect-tense.jpg" alt="过去完成时态" style="width: 50%; height: auto;">
+
+<mark>**过去完成进行时态(Past Perfect Progressive Tense)**</mark>  
+基本结构：had + been + V-ing(现在分词)  
+基本信息: 对于过去某个点，不但已经完成了一部分，而且还要继续进行的动作  
+<img src="/subject/english/image/past-perfect-progressive-tense.jpg" alt="过去完成进行时态" style="width: 50%; height: auto;">
+
+#### 将来时
+英语中，要表达将来时态，动词本身并没有相应的像过去式(比如词尾+ed)这样的拼写变化  
+英语中要表达将来也必须借助到助动词，放到主动词(谓语动词)之前，将来时态用到的助动词就是：will/shall
+<img src="/subject/english/image/future-tense.jpg" alt="将来时" style="width: 50%; height: auto;">
+
+<mark>**一般将来时态(Simple Future Tense)**</mark>  
+基本结构：  
+    S + will + V(动词原形)  
+    be going to ···  
+基本信息: 表达将来某个时间点发生的动作（说话者十分确定的事）
+<img src="/subject/english/image/simple-future-tense.jpg" alt="一般将来时态" style="width: 50%; height: auto;">
+
+<mark>**将来进行时态(Future Progressive Tense)**</mark>  
+基本结构：will + be + V-ing(现在分词)  
+基本信息: 表达在将来某个时间点，某个动作是在进行的过程中（特别笃定某事一定发生）
+<img src="/subject/english/image/future-progressive-tense.jpg" alt="将来进行时态" style="width: 50%; height: auto;">
+
+**将来完成时态(Future Perfect Tense)**  
+基本结构：will + have + 过去分词  
+基本信息: 表达将来某一点（A）的过去（B；和现在的前后不确定）对将来那一点（A）的影响  
+补充：比刚才的将来进行时态更加笃定
+<img src="/subject/english/image/future-perfect-tense.jpg" alt="将来完成时态" style="width: 50%; height: auto;">
+
+**将来完成进行时态(Future Perfect Progressive Tense)**  
+基本结构：will + have + been + V-ing(现在分词)  
+基本信息: 对于将来某个点，不但已经完成了一部分，而且还要继续进行的动作  
+补充：将来完成进行时态平时很少用，因为它表达的意思真的是特别具体，比刚才的将来完成时态更加笃定
+<img src="/subject/english/image/future-perfect-tense.jpg" alt="将来完成时态" style="width: 50%; height: auto;">
+
+#### 过去将来时
+
+<img src="/subject/english/image/past-future.jpg" alt="过去将来时" style="width: 50%; height: auto;">
+
+**一般过去将来时态(Simple Past Future Tense)**  
+基本结构：  
+would + V(动词原形)  
+was/were + going + to  
+基本信息: 表示过去的将来
+<img src="/subject/english/image/simple-past-future-tense.jpg" alt="一般过去将来时态" style="width: 50%; height: auto;">
+
+**过去将来进行时态(Past Future Progressive Tense)**  
+基本结构：would + be + V-ing(现在分词) 
+<img src="/subject/english/image/past-future-progressive-tense.jpg" alt="过去将来进行时态" style="width: 50%; height: auto;">
+
+**过去将来完成时态(Past Future Perfect Tense)**  
+基本结构：would + have + 过去分词
+<img src="/subject/english/image/past-future-perfect-tense.jpg" alt="过去将来完成时态" style="width: 50%; height: auto;">
+
+**过去将来完成进行时态(Past Future Perfect Progressive Tense)**  
+基本结构：would + have + been + V-ing(现在分词)
+<img src="/subject/english/image/past-future-perfect-progressive-tense.jpg" alt="过去将来完成进行时态" style="width: 50%; height: auto;">
+
+### 1.1 动词语气(虚拟语气)
+
 
 ## 2. 句型结构
