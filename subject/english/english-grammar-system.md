@@ -258,6 +258,7 @@
 <mark>**一般过去时态(Simple Past Tense)**</mark>  
 基本结构：S + V-ed(动词过去式)
 基本信息: 表达一件事在过去某时刻已经完成
+补充：过去式表示过去时间
 <img src="/subject/english/image/simple-past-tense.jpg" alt="一般过去时态" style="width: 50%; height: auto;">
 
 <mark>**过去进行时态(Past Progressive Tense)**</mark>  
@@ -347,5 +348,66 @@ was/were + going + to
 
 ### 1.1 动词语气(虚拟语气)
 
+动词语气最主要的是三种语气：陈述语气、祈使语气、虚拟语气  
+也有的语法体系会包含：疑问语气、条件语气、感叹语气，这些语气是次要的
+
+#### 陈述语气
+
+陈述语气(Indicative Mood)：描述现实  
+补充：疑问语气往往只是改变词序或加助动词
+<img src="/subject/english/image/indicative-mood.jpg" alt="陈述语气" style="width: 50%; height: auto;">
+
+#### 祈使语气
+
+祈使语气(Imperative Mood)：命令/请求  
+构成很简单，有个小窍门：绝大多数情况下，祈使语气就是把你的命令/请求用第二人称（“你”）用一般现在时态表达，  
+然后把其中的“你”去掉，并保证动词原形就好
+<img src="/subject/english/image/imperative-mood.jpg" alt="祈使语气" style="width: 50%; height: auto;">
+
+#### 虚拟语气
+
+虚拟语气(Subjunctive Mood)：与现实相悖的想象，主观的意愿  
+<img src="/subject/english/image/subjunctive-mood.jpg" alt="虚拟语气" style="width: 50%; height: auto;">
+虚拟语气基本只用于从句中，包括条件从句  
+难点：英语中动词的虚拟语气是要变位（改变拼写）的  
+举例：
+<img src="/subject/english/image/subjunctive-mood-example.jpg" alt="虚拟语气" style="width: 50%; height: auto;">
+
+
+<mark>**第一大用法：虚拟语气表“不可能”假设**</mark>
+
+* 对现在的“不可能”的假设：与现在相反  
+条件句：过去式  
+主句：would + 动词原形
+
+* 对讲来的“不可能”的假设：与将来相反(可能性小)  
+条件句：  
+should + 动词原形  
+were to + 动词原形  
+主句：would + 动词原形  
+补充：过去式变位：shall -> should, will -> would
+
+* 对过去的“不可能”的假设：与过去相反  
+条件句：had + 动词过去分词  
+主句：would have + 动词过去分词
+
+<img src="/subject/english/image/subjunctive-mood-first-usage.jpg" alt="虚拟语气的第一大用法" style="width: 50%; height: auto;">
+
+<mark>**第二大用法：虚拟语气表达愿望，请求，建议，命令，等。即：“希望某个动作/事件发生”**</mark>  
+代表性词：  
+wish(希望)：希望可能性小的事发生  
+hope(希望)：中性  
+**wish/would rather**:
+
+* 对现在的愿望：wish + 动词过去式
+* 对过去的愿望：wish + had/would have + 动词过去分词
+* 对将来的愿望：wish + should/would/could/might + 动词原形
+
+**demand/suggest/insist/order**：  
+这样的词后面接的虚拟语气一律是should + 动词原形
+
+<img src="/subject/english/image/subjunctive-mood-second-usage.jpg" alt="虚拟语气的第一大用法" style="width: 50%; height: auto;">  
+<p></p>
+<img src="/subject/english/image/verbs-moods-summary.jpg" alt="虚拟语气的第一大用法" style="width: 60%; height: auto;">
 
 ## 2. 句型结构
