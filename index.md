@@ -18,11 +18,11 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 🦉 Learn
+    details: Learning without thought is labor lost; thought without learning is perilous.
+  - title: ⏳ Accumulate
+    details: A journey of a thousand miles begins with a single step.
+  - title: 🌾 Modest
+    details: A ture master is an eternal student.
 ---
 
