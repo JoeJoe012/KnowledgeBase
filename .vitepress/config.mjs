@@ -1,5 +1,5 @@
 import { defineConfig } from 'vitepress'
-import { set_sidebar } from './util/auto-gen-sidebar.mjs';
+// import { set_sidebar } from './util/auto-gen-sidebar.mjs';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -22,7 +22,11 @@ export default defineConfig({
         ] 
       },
       { text: 'Frontend', link: '/front-end/测试index' },
-      { text: 'Backend', link: '/front-end/测试index'},
+      { text: 'Backend', 
+        items: [
+          { text: 'Java', link: '/back-end/java'}
+        ]
+      },
       { text: 'DevOps', 
         items: [
           { text: 'Linux', link: '/markdown-examples'},
@@ -35,10 +39,26 @@ export default defineConfig({
           { 
             text: 'English',
             items: [
-              { text: 'English Grammar', link: '/subject/english/english-grammar'},
-              { text: 'Intensive Reading', link: '/subject/english/english-grammar-system'}
+              { text: 'English Grammar', link: '/subject/english/english-grammar-system'} //,
+              // { text: 'Intensive Reading', link: '/subject/english/english-grammar-system'}
             ]
-          }
+          } /*,
+          {
+            text: 'Mathematics',
+            items: [
+              { text: 'Elementary Math', link: '/markdown-examples'},
+              { text: 'Advanced Math', link: '/markdown-examples'}
+            ]
+          },
+          {
+            text: '408',
+            items: [
+              { text: 'Data Structure', link: '/markdown-examples'},
+              { text: 'Computer Organization', link: '/markdown-examples'},
+              { text: 'Operating System', link: '/markdown-examples'},
+              { text: 'Computer Network', link: '/markdown-examples'}
+            ]
+          } */
         ]
       },
       { text: 'Other', 
