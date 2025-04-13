@@ -3,8 +3,8 @@ import { set_sidebar } from './util/auto-gen-sidebar.mjs';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/KnowledgeBase/',
-  head: [["link", { rel: "icon", href: "/KnowledgeBase/github-fill.svg" }]],
+  base: '/knowledge-base/',
+  head: [["link", { rel: "icon", href: "/knowledge-base/github-fill.svg" }]],
   title: "Project",
   description: "A VitePress Site",
   themeConfig: {
@@ -18,29 +18,34 @@ export default defineConfig({
       { text: 'Home', 
         items: [
           { text: '首页', link: '/'},
-          { text: 'Example示例', link: '/markdown-examples'}
+          { text: 'Example', link: '/markdown-examples'}
         ] 
       },
       { text: 'Frontend', link: '/front-end/测试index' },
       { text: 'Backend', link: '/front-end/测试index'},
+      { text: 'DevOps', 
+        items: [
+          { text: 'Linux', link: '/markdown-examples'},
+          { text: 'MySQL', link: '/markdown-examples'},
+          { text: 'Nginx', link: '/markdown-examples'}
+        ]
+      },
       { text: 'Subject',
         items: [
-          { text: 'English',
+          { 
+            text: 'English',
             items: [
               { text: 'English Grammar', link: '/subject/english/english-grammar'},
               { text: 'Intensive Reading', link: '/subject/english/english-grammar-system'}
             ]
-          },
-          {
-            text: 'Mathematics',
-            items: [
-              { text: 'Elementary Math', link: '/markdown-examples'},
-              { text: 'Advanced Math', link: '/markdown-examples'}
-            ]
           }
         ]
       },
-      { text: 'Other', link: '/markdown-examples'}
+      { text: 'Other', 
+        items: [
+          { text: 'Git', link: '/markdown-examples'}
+        ]
+      }
     ],
 
     // sidebar: [
